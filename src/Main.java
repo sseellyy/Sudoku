@@ -154,3 +154,4 @@ public class Main {
         System.out.println("No hints available. The puzzle is almost solved!");  // No empty cells left
     }
 }
+
