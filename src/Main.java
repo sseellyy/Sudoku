@@ -1,9 +1,9 @@
 import java.util.*;
 
-public class Main
-{
+public class Main {
     private static final int SIZE = 9;
     private static int[][] board;
+    private static int[][] solution;
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -18,12 +18,15 @@ public class Main
 
             while (!isSolved()) {
                 displayBoard();
-                System.out.println("Enter your solution (row col value) or 'q' to quit: ");
+                System.out.println("Enter your solution (row col value), 'h' for a hint, or 'q' to quit: ");
 
                 String input = scanner.next();
                 if (input.equalsIgnoreCase("q")) {
                     System.out.println("Thanks for playing!");
                     return;
+                } else if (input.equalsIgnoreCase("h")) {
+                    provideHint();
+                    continue;
                 }
 
                 int row = Integer.parseInt(input) - 1;
@@ -50,7 +53,7 @@ public class Main
 
     private static void generatePuzzle(int difficulty) {
         board = new int[SIZE][SIZE];
-        int[][] solution = new int[SIZE][SIZE];
+        solution = new int[SIZE][SIZE];
         Random rand = new Random();
 
         for (int i = 0; i < SIZE; i++) {
@@ -107,5 +110,18 @@ public class Main
             }
         }
         return true;
+    }
+
+    private static void provideHint() {
+        for (int i = 0; i < SIZE; i++) {
+            for (int j = 0; j < SIZE; j++) {
+                if (board[i][j] == 0) {
+                    board[i][j] = solution[i][j];
+                    System.out.println("Hint: Placed " + solution[i][j] + " at row " + (i + 1) + ", column " + (j + 1));
+                    return;
+                }
+            }
+        }
+        System.out.println("No hints available. The puzzle is almost solved!");
     }
 }
