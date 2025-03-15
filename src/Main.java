@@ -51,7 +51,7 @@ public class Main {
 
             // Calculate and display the time taken to solve the puzzle
             long timeTaken = (System.currentTimeMillis() - startTime) / 1000;
-            System.out.println("Congratulations!\uD83C\uDFC6 You solved the Sudoku puzzle in " + timeTaken + " seconds!\uD83D\uDD70\uFE0F");
+            System.out.println("Congratulations!\uD83C\uDFC6 You solved the Sudoku puzzle in " + timeTaken + " seconds!⏰");
 
             // Ask the user if they want to play again
             System.out.println("Do you want to play again\uD83D\uDD04? (Y/N): ");
