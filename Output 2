@@ -1,0 +1,300 @@
+"C:\Program Files\Java\jdk-23\bin\java.exe" "-javaagent:C:\Users\abiro\AppData\Local\Programs\IntelliJ IDEA Community Edition\lib\idea_rt.jar=56760" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\abiro\IdeaProjects\Sudoku\out\production\Sudoku Main
+Welcome to Sudoku Puzzle Game!🧩
+
+Choose difficulty level:
+1. Easy 
+2. Medium 
+3. Hard 
+Enter your choice: 
+1
+Sudoku Puzzle:
+1 _ 3  | _ 5 _  | _ 8 9 
+_ 5 6  | _ 8 9  | _ _ _ 
+7 _ _  | _ _ _  | _ _ _ 
+----------------------
+2 3 4  | 5 _ _  | _ _ _ 
+5 _ _  | _ 9 1  | _ 3 4 
+_ 9 1  | 2 _ _  | _ 6 _ 
+----------------------
+3 4 5  | _ 7 _  | _ 1 _ 
+6 _ 8  | 9 1 2  | 3 _ 5 
+_ _ 2  | _ _ 5  | 6 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+1 2 2
+Sudoku Puzzle:
+1 2 3  | _ 5 _  | _ 8 9 
+_ 5 6  | _ 8 9  | _ _ _ 
+7 _ _  | _ _ _  | _ _ _ 
+----------------------
+2 3 4  | 5 _ _  | _ _ _ 
+5 _ _  | _ 9 1  | _ 3 4 
+_ 9 1  | 2 _ _  | _ 6 _ 
+----------------------
+3 4 5  | _ 7 _  | _ 1 _ 
+6 _ 8  | 9 1 2  | 3 _ 5 
+_ _ 2  | _ _ 5  | 6 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+1 4 4
+Sudoku Puzzle:
+1 2 3  | 4 5 _  | _ 8 9 
+_ 5 6  | _ 8 9  | _ _ _ 
+7 _ _  | _ _ _  | _ _ _ 
+----------------------
+2 3 4  | 5 _ _  | _ _ _ 
+5 _ _  | _ 9 1  | _ 3 4 
+_ 9 1  | 2 _ _  | _ 6 _ 
+----------------------
+3 4 5  | _ 7 _  | _ 1 _ 
+6 _ 8  | 9 1 2  | 3 _ 5 
+_ _ 2  | _ _ 5  | 6 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+1 6 6
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | _ 8 9 
+_ 5 6  | _ 8 9  | _ _ _ 
+7 _ _  | _ _ _  | _ _ _ 
+----------------------
+2 3 4  | 5 _ _  | _ _ _ 
+5 _ _  | _ 9 1  | _ 3 4 
+_ 9 1  | 2 _ _  | _ 6 _ 
+----------------------
+3 4 5  | _ 7 _  | _ 1 _ 
+6 _ 8  | 9 1 2  | 3 _ 5 
+_ _ 2  | _ _ 5  | 6 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+1 7 7
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+_ 5 6  | _ 8 9  | _ _ _ 
+7 _ _  | _ _ _  | _ _ _ 
+----------------------
+2 3 4  | 5 _ _  | _ _ _ 
+5 _ _  | _ 9 1  | _ 3 4 
+_ 9 1  | 2 _ _  | _ 6 _ 
+----------------------
+3 4 5  | _ 7 _  | _ 1 _ 
+6 _ 8  | 9 1 2  | 3 _ 5 
+_ _ 2  | _ _ 5  | 6 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+2 1 4
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | _ 8 9  | _ _ _ 
+7 _ _  | _ _ _  | _ _ _ 
+----------------------
+2 3 4  | 5 _ _  | _ _ _ 
+5 _ _  | _ 9 1  | _ 3 4 
+_ 9 1  | 2 _ _  | _ 6 _ 
+----------------------
+3 4 5  | _ 7 _  | _ 1 _ 
+6 _ 8  | 9 1 2  | 3 _ 5 
+_ _ 2  | _ _ 5  | 6 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+2 4 1
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 1 8 9  | _ _ _ 
+7 _ _  | _ _ _  | _ _ _ 
+----------------------
+2 3 4  | 5 _ _  | _ _ _ 
+5 _ _  | _ 9 1  | _ 3 4 
+_ 9 1  | 2 _ _  | _ 6 _ 
+----------------------
+3 4 5  | _ 7 _  | _ 1 _ 
+6 _ 8  | 9 1 2  | 3 _ 5 
+_ _ 2  | _ _ 5  | 6 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+2 7 2
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 1 8 9  | 2 _ _ 
+7 _ _  | _ _ _  | _ _ _ 
+----------------------
+2 3 4  | 5 _ _  | _ _ _ 
+5 _ _  | _ 9 1  | _ 3 4 
+_ 9 1  | 2 _ _  | _ 6 _ 
+----------------------
+3 4 5  | _ 7 _  | _ 1 _ 
+6 _ 8  | 9 1 2  | 3 _ 5 
+_ _ 2  | _ _ 5  | 6 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+2 8 3
+Invalid move❌. Try again.
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 1 8 9  | 2 _ _ 
+7 _ _  | _ _ _  | _ _ _ 
+----------------------
+2 3 4  | 5 _ _  | _ _ _ 
+5 _ _  | _ 9 1  | _ 3 4 
+_ 9 1  | 2 _ _  | _ 6 _ 
+----------------------
+3 4 5  | _ 7 _  | _ 1 _ 
+6 _ 8  | 9 1 2  | 3 _ 5 
+_ _ 2  | _ _ 5  | 6 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+2 8 4
+Invalid move❌. Try again.
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 1 8 9  | 2 _ _ 
+7 _ _  | _ _ _  | _ _ _ 
+----------------------
+2 3 4  | 5 _ _  | _ _ _ 
+5 _ _  | _ 9 1  | _ 3 4 
+_ 9 1  | 2 _ _  | _ 6 _ 
+----------------------
+3 4 5  | _ 7 _  | _ 1 _ 
+6 _ 8  | 9 1 2  | 3 _ 5 
+_ _ 2  | _ _ 5  | 6 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+2 8 5
+Invalid move❌. Try again.
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 1 8 9  | 2 _ _ 
+7 _ _  | _ _ _  | _ _ _ 
+----------------------
+2 3 4  | 5 _ _  | _ _ _ 
+5 _ _  | _ 9 1  | _ 3 4 
+_ 9 1  | 2 _ _  | _ 6 _ 
+----------------------
+3 4 5  | _ 7 _  | _ 1 _ 
+6 _ 8  | 9 1 2  | 3 _ 5 
+_ _ 2  | _ _ 5  | 6 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+2 8 6
+Invalid move❌. Try again.
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 1 8 9  | 2 _ _ 
+7 _ _  | _ _ _  | _ _ _ 
+----------------------
+2 3 4  | 5 _ _  | _ _ _ 
+5 _ _  | _ 9 1  | _ 3 4 
+_ 9 1  | 2 _ _  | _ 6 _ 
+----------------------
+3 4 5  | _ 7 _  | _ 1 _ 
+6 _ 8  | 9 1 2  | 3 _ 5 
+_ _ 2  | _ _ 5  | 6 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+3 2 8
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 1 8 9  | 2 _ _ 
+7 8 _  | _ _ _  | _ _ _ 
+----------------------
+2 3 4  | 5 _ _  | _ _ _ 
+5 _ _  | _ 9 1  | _ 3 4 
+_ 9 1  | 2 _ _  | _ 6 _ 
+----------------------
+3 4 5  | _ 7 _  | _ 1 _ 
+6 _ 8  | 9 1 2  | 3 _ 5 
+_ _ 2  | _ _ 5  | 6 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+3 3 9
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 1 8 9  | 2 _ _ 
+7 8 9  | _ _ _  | _ _ _ 
+----------------------
+2 3 4  | 5 _ _  | _ _ _ 
+5 _ _  | _ 9 1  | _ 3 4 
+_ 9 1  | 2 _ _  | _ 6 _ 
+----------------------
+3 4 5  | _ 7 _  | _ 1 _ 
+6 _ 8  | 9 1 2  | 3 _ 5 
+_ _ 2  | _ _ 5  | 6 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+3 4 2
+Invalid move❌. Try again.
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 1 8 9  | 2 _ _ 
+7 8 9  | _ _ _  | _ _ _ 
+----------------------
+2 3 4  | 5 _ _  | _ _ _ 
+5 _ _  | _ 9 1  | _ 3 4 
+_ 9 1  | 2 _ _  | _ 6 _ 
+----------------------
+3 4 5  | _ 7 _  | _ 1 _ 
+6 _ 8  | 9 1 2  | 3 _ 5 
+_ _ 2  | _ _ 5  | 6 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+3 4 3 
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 1 8 9  | 2 _ _ 
+7 8 9  | 3 _ _  | _ _ _ 
+----------------------
+2 3 4  | 5 _ _  | _ _ _ 
+5 _ _  | _ 9 1  | _ 3 4 
+_ 9 1  | 2 _ _  | _ 6 _ 
+----------------------
+3 4 5  | _ 7 _  | _ 1 _ 
+6 _ 8  | 9 1 2  | 3 _ 5 
+_ _ 2  | _ _ 5  | 6 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+3 5 2
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 1 8 9  | 2 _ _ 
+7 8 9  | 3 2 _  | _ _ _ 
+----------------------
+2 3 4  | 5 _ _  | _ _ _ 
+5 _ _  | _ 9 1  | _ 3 4 
+_ 9 1  | 2 _ _  | _ 6 _ 
+----------------------
+3 4 5  | _ 7 _  | _ 1 _ 
+6 _ 8  | 9 1 2  | 3 _ 5 
+_ _ 2  | _ _ 5  | 6 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+3 5 7
+Invalid move❌. Try again.
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 1 8 9  | 2 _ _ 
+7 8 9  | 3 2 _  | _ _ _ 
+----------------------
+2 3 4  | 5 _ _  | _ _ _ 
+5 _ _  | _ 9 1  | _ 3 4 
+_ 9 1  | 2 _ _  | _ 6 _ 
+----------------------
+3 4 5  | _ 7 _  | _ 1 _ 
+6 _ 8  | 9 1 2  | 3 _ 5 
+_ _ 2  | _ _ 5  | 6 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+3 6 7
+Invalid move❌. Try again.
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 1 8 9  | 2 _ _ 
+7 8 9  | 3 2 _  | _ _ _ 
+----------------------
+2 3 4  | 5 _ _  | _ _ _ 
+5 _ _  | _ 9 1  | _ 3 4 
+_ 9 1  | 2 _ _  | _ 6 _ 
+----------------------
+3 4 5  | _ 7 _  | _ 1 _ 
+6 _ 8  | 9 1 2  | 3 _ 5 
+_ _ 2  | _ _ 5  | 6 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 2 at row 2, column 8
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 1 8 9  | 2 2 _ 
+7 8 9  | 3 2 _  | _ _ _ 
+----------------------
+2 3 4  | 5 _ _  | _ _ _ 
+5 _ _  | _ 9 1  | _ 3 4 
+_ 9 1  | 2 _ _  | _ 6 _ 
+----------------------
+3 4 5  | _ 7 _  | _ 1 _ 
+6 _ 8  | 9 1 2  | 3 _ 5 
+_ _ 2  | _ _ 5  | 6 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+q
+Thanks for playing!😊
+
+Process finished with exit code 0
