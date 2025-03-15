@@ -4,8 +4,6 @@ public class Main
 {
     private static final int SIZE = 9;
     private static int[][] board;
-    private static int[][] solution;
-    private static long startTime;
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -16,7 +14,7 @@ public class Main
             int difficulty = scanner.nextInt();
 
             generatePuzzle(difficulty);
-            startTime = System.currentTimeMillis();
+            long startTime = System.currentTimeMillis();
 
             while (!isSolved()) {
                 displayBoard();
@@ -52,7 +50,7 @@ public class Main
 
     private static void generatePuzzle(int difficulty) {
         board = new int[SIZE][SIZE];
-        solution = new int[SIZE][SIZE];
+        int[][] solution = new int[SIZE][SIZE];
         Random rand = new Random();
 
         for (int i = 0; i < SIZE; i++) {
