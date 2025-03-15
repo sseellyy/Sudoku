@@ -1,0 +1,627 @@
+"C:\Program Files\Java\jdk-23\bin\java.exe" "-javaagent:C:\Users\abiro\AppData\Local\Programs\IntelliJ IDEA Community Edition\lib\idea_rt.jar=56718" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\abiro\IdeaProjects\Sudoku\out\production\Sudoku Main
+Welcome to Sudoku Puzzle Game!🧩
+
+Choose difficulty level:
+1. Easy 
+2. Medium 
+3. Hard 
+Enter your choice: 
+1
+Sudoku Puzzle:
+1 _ _  | _ 5 _  | 7 _ _ 
+4 _ 6  | _ 8 _  | 1 _ 3 
+7 _ _  | _ _ 3  | _ _ 6 
+----------------------
+_ _ _  | _ _ 7  | 8 _ _ 
+5 6 _  | _ 9 _  | _ 3 _ 
+_ 9 1  | _ _ _  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 2 at row 1, column 2
+Sudoku Puzzle:
+1 2 _  | _ 5 _  | 7 _ _ 
+4 _ 6  | _ 8 _  | 1 _ 3 
+7 _ _  | _ _ 3  | _ _ 6 
+----------------------
+_ _ _  | _ _ 7  | 8 _ _ 
+5 6 _  | _ 9 _  | _ 3 _ 
+_ 9 1  | _ _ _  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 3 at row 1, column 3
+Sudoku Puzzle:
+1 2 3  | _ 5 _  | 7 _ _ 
+4 _ 6  | _ 8 _  | 1 _ 3 
+7 _ _  | _ _ 3  | _ _ 6 
+----------------------
+_ _ _  | _ _ 7  | 8 _ _ 
+5 6 _  | _ 9 _  | _ 3 _ 
+_ 9 1  | _ _ _  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 4 at row 1, column 4
+Sudoku Puzzle:
+1 2 3  | 4 5 _  | 7 _ _ 
+4 _ 6  | _ 8 _  | 1 _ 3 
+7 _ _  | _ _ 3  | _ _ 6 
+----------------------
+_ _ _  | _ _ 7  | 8 _ _ 
+5 6 _  | _ 9 _  | _ 3 _ 
+_ 9 1  | _ _ _  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 6 at row 1, column 6
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 _ _ 
+4 _ 6  | _ 8 _  | 1 _ 3 
+7 _ _  | _ _ 3  | _ _ 6 
+----------------------
+_ _ _  | _ _ 7  | 8 _ _ 
+5 6 _  | _ 9 _  | _ 3 _ 
+_ 9 1  | _ _ _  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 8 at row 1, column 8
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 _ 
+4 _ 6  | _ 8 _  | 1 _ 3 
+7 _ _  | _ _ 3  | _ _ 6 
+----------------------
+_ _ _  | _ _ 7  | 8 _ _ 
+5 6 _  | _ 9 _  | _ 3 _ 
+_ 9 1  | _ _ _  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 9 at row 1, column 9
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 _ 6  | _ 8 _  | 1 _ 3 
+7 _ _  | _ _ 3  | _ _ 6 
+----------------------
+_ _ _  | _ _ 7  | 8 _ _ 
+5 6 _  | _ 9 _  | _ 3 _ 
+_ 9 1  | _ _ _  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 5 at row 2, column 2
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | _ 8 _  | 1 _ 3 
+7 _ _  | _ _ 3  | _ _ 6 
+----------------------
+_ _ _  | _ _ 7  | 8 _ _ 
+5 6 _  | _ 9 _  | _ 3 _ 
+_ 9 1  | _ _ _  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 7 at row 2, column 4
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 _  | 1 _ 3 
+7 _ _  | _ _ 3  | _ _ 6 
+----------------------
+_ _ _  | _ _ 7  | 8 _ _ 
+5 6 _  | _ 9 _  | _ 3 _ 
+_ 9 1  | _ _ _  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 9 at row 2, column 6
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 9  | 1 _ 3 
+7 _ _  | _ _ 3  | _ _ 6 
+----------------------
+_ _ _  | _ _ 7  | 8 _ _ 
+5 6 _  | _ 9 _  | _ 3 _ 
+_ 9 1  | _ _ _  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 2 at row 2, column 8
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 9  | 1 2 3 
+7 _ _  | _ _ 3  | _ _ 6 
+----------------------
+_ _ _  | _ _ 7  | 8 _ _ 
+5 6 _  | _ 9 _  | _ 3 _ 
+_ 9 1  | _ _ _  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 8 at row 3, column 2
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 9  | 1 2 3 
+7 8 _  | _ _ 3  | _ _ 6 
+----------------------
+_ _ _  | _ _ 7  | 8 _ _ 
+5 6 _  | _ 9 _  | _ 3 _ 
+_ 9 1  | _ _ _  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 9 at row 3, column 3
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 9  | 1 2 3 
+7 8 9  | _ _ 3  | _ _ 6 
+----------------------
+_ _ _  | _ _ 7  | 8 _ _ 
+5 6 _  | _ 9 _  | _ 3 _ 
+_ 9 1  | _ _ _  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 1 at row 3, column 4
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 9  | 1 2 3 
+7 8 9  | 1 _ 3  | _ _ 6 
+----------------------
+_ _ _  | _ _ 7  | 8 _ _ 
+5 6 _  | _ 9 _  | _ 3 _ 
+_ 9 1  | _ _ _  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 2 at row 3, column 5
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 9  | 1 2 3 
+7 8 9  | 1 2 3  | _ _ 6 
+----------------------
+_ _ _  | _ _ 7  | 8 _ _ 
+5 6 _  | _ 9 _  | _ 3 _ 
+_ 9 1  | _ _ _  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 4 at row 3, column 7
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 9  | 1 2 3 
+7 8 9  | 1 2 3  | 4 _ 6 
+----------------------
+_ _ _  | _ _ 7  | 8 _ _ 
+5 6 _  | _ 9 _  | _ 3 _ 
+_ 9 1  | _ _ _  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 5 at row 3, column 8
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 9  | 1 2 3 
+7 8 9  | 1 2 3  | 4 5 6 
+----------------------
+_ _ _  | _ _ 7  | 8 _ _ 
+5 6 _  | _ 9 _  | _ 3 _ 
+_ 9 1  | _ _ _  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 2 at row 4, column 1
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 9  | 1 2 3 
+7 8 9  | 1 2 3  | 4 5 6 
+----------------------
+2 _ _  | _ _ 7  | 8 _ _ 
+5 6 _  | _ 9 _  | _ 3 _ 
+_ 9 1  | _ _ _  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 3 at row 4, column 2
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 9  | 1 2 3 
+7 8 9  | 1 2 3  | 4 5 6 
+----------------------
+2 3 _  | _ _ 7  | 8 _ _ 
+5 6 _  | _ 9 _  | _ 3 _ 
+_ 9 1  | _ _ _  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 4 at row 4, column 3
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 9  | 1 2 3 
+7 8 9  | 1 2 3  | 4 5 6 
+----------------------
+2 3 4  | _ _ 7  | 8 _ _ 
+5 6 _  | _ 9 _  | _ 3 _ 
+_ 9 1  | _ _ _  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 5 at row 4, column 4
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 9  | 1 2 3 
+7 8 9  | 1 2 3  | 4 5 6 
+----------------------
+2 3 4  | 5 _ 7  | 8 _ _ 
+5 6 _  | _ 9 _  | _ 3 _ 
+_ 9 1  | _ _ _  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 6 at row 4, column 5
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 9  | 1 2 3 
+7 8 9  | 1 2 3  | 4 5 6 
+----------------------
+2 3 4  | 5 6 7  | 8 _ _ 
+5 6 _  | _ 9 _  | _ 3 _ 
+_ 9 1  | _ _ _  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 9 at row 4, column 8
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 9  | 1 2 3 
+7 8 9  | 1 2 3  | 4 5 6 
+----------------------
+2 3 4  | 5 6 7  | 8 9 _ 
+5 6 _  | _ 9 _  | _ 3 _ 
+_ 9 1  | _ _ _  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 1 at row 4, column 9
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 9  | 1 2 3 
+7 8 9  | 1 2 3  | 4 5 6 
+----------------------
+2 3 4  | 5 6 7  | 8 9 1 
+5 6 _  | _ 9 _  | _ 3 _ 
+_ 9 1  | _ _ _  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 7 at row 5, column 3
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 9  | 1 2 3 
+7 8 9  | 1 2 3  | 4 5 6 
+----------------------
+2 3 4  | 5 6 7  | 8 9 1 
+5 6 7  | _ 9 _  | _ 3 _ 
+_ 9 1  | _ _ _  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 8 at row 5, column 4
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 9  | 1 2 3 
+7 8 9  | 1 2 3  | 4 5 6 
+----------------------
+2 3 4  | 5 6 7  | 8 9 1 
+5 6 7  | 8 9 _  | _ 3 _ 
+_ 9 1  | _ _ _  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 1 at row 5, column 6
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 9  | 1 2 3 
+7 8 9  | 1 2 3  | 4 5 6 
+----------------------
+2 3 4  | 5 6 7  | 8 9 1 
+5 6 7  | 8 9 1  | _ 3 _ 
+_ 9 1  | _ _ _  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 2 at row 5, column 7
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 9  | 1 2 3 
+7 8 9  | 1 2 3  | 4 5 6 
+----------------------
+2 3 4  | 5 6 7  | 8 9 1 
+5 6 7  | 8 9 1  | 2 3 _ 
+_ 9 1  | _ _ _  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 4 at row 5, column 9
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 9  | 1 2 3 
+7 8 9  | 1 2 3  | 4 5 6 
+----------------------
+2 3 4  | 5 6 7  | 8 9 1 
+5 6 7  | 8 9 1  | 2 3 4 
+_ 9 1  | _ _ _  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 8 at row 6, column 1
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 9  | 1 2 3 
+7 8 9  | 1 2 3  | 4 5 6 
+----------------------
+2 3 4  | 5 6 7  | 8 9 1 
+5 6 7  | 8 9 1  | 2 3 4 
+8 9 1  | _ _ _  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 2 at row 6, column 4
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 9  | 1 2 3 
+7 8 9  | 1 2 3  | 4 5 6 
+----------------------
+2 3 4  | 5 6 7  | 8 9 1 
+5 6 7  | 8 9 1  | 2 3 4 
+8 9 1  | 2 _ _  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 3 at row 6, column 5
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 9  | 1 2 3 
+7 8 9  | 1 2 3  | 4 5 6 
+----------------------
+2 3 4  | 5 6 7  | 8 9 1 
+5 6 7  | 8 9 1  | 2 3 4 
+8 9 1  | 2 3 _  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 4 at row 6, column 6
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 9  | 1 2 3 
+7 8 9  | 1 2 3  | 4 5 6 
+----------------------
+2 3 4  | 5 6 7  | 8 9 1 
+5 6 7  | 8 9 1  | 2 3 4 
+8 9 1  | 2 3 4  | _ 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 5 at row 6, column 7
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 9  | 1 2 3 
+7 8 9  | 1 2 3  | 4 5 6 
+----------------------
+2 3 4  | 5 6 7  | 8 9 1 
+5 6 7  | 8 9 1  | 2 3 4 
+8 9 1  | 2 3 4  | 5 6 7 
+----------------------
+3 _ _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 4 at row 7, column 2
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 9  | 1 2 3 
+7 8 9  | 1 2 3  | 4 5 6 
+----------------------
+2 3 4  | 5 6 7  | 8 9 1 
+5 6 7  | 8 9 1  | 2 3 4 
+8 9 1  | 2 3 4  | 5 6 7 
+----------------------
+3 4 _  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 5 at row 7, column 3
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 9  | 1 2 3 
+7 8 9  | 1 2 3  | 4 5 6 
+----------------------
+2 3 4  | 5 6 7  | 8 9 1 
+5 6 7  | 8 9 1  | 2 3 4 
+8 9 1  | 2 3 4  | 5 6 7 
+----------------------
+3 4 5  | _ 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 6 at row 7, column 4
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 9  | 1 2 3 
+7 8 9  | 1 2 3  | 4 5 6 
+----------------------
+2 3 4  | 5 6 7  | 8 9 1 
+5 6 7  | 8 9 1  | 2 3 4 
+8 9 1  | 2 3 4  | 5 6 7 
+----------------------
+3 4 5  | 6 7 8  | 9 1 2 
+6 _ 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 7 at row 8, column 2
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 9  | 1 2 3 
+7 8 9  | 1 2 3  | 4 5 6 
+----------------------
+2 3 4  | 5 6 7  | 8 9 1 
+5 6 7  | 8 9 1  | 2 3 4 
+8 9 1  | 2 3 4  | 5 6 7 
+----------------------
+3 4 5  | 6 7 8  | 9 1 2 
+6 7 8  | 9 1 _  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 2 at row 8, column 6
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 9  | 1 2 3 
+7 8 9  | 1 2 3  | 4 5 6 
+----------------------
+2 3 4  | 5 6 7  | 8 9 1 
+5 6 7  | 8 9 1  | 2 3 4 
+8 9 1  | 2 3 4  | 5 6 7 
+----------------------
+3 4 5  | 6 7 8  | 9 1 2 
+6 7 8  | 9 1 2  | 3 4 _ 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 5 at row 8, column 9
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 9  | 1 2 3 
+7 8 9  | 1 2 3  | 4 5 6 
+----------------------
+2 3 4  | 5 6 7  | 8 9 1 
+5 6 7  | 8 9 1  | 2 3 4 
+8 9 1  | 2 3 4  | 5 6 7 
+----------------------
+3 4 5  | 6 7 8  | 9 1 2 
+6 7 8  | 9 1 2  | 3 4 5 
+9 1 _  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+h
+Hint🔑: Placed 2 at row 9, column 3
+Sudoku Puzzle:
+1 2 3  | 4 5 6  | 7 8 9 
+4 5 6  | 7 8 9  | 1 2 3 
+7 8 9  | 1 2 3  | 4 5 6 
+----------------------
+2 3 4  | 5 6 7  | 8 9 1 
+5 6 7  | 8 9 1  | 2 3 4 
+8 9 1  | 2 3 4  | 5 6 7 
+----------------------
+3 4 5  | 6 7 8  | 9 1 2 
+6 7 8  | 9 1 2  | 3 4 5 
+9 1 2  | 3 4 5  | _ 7 8 
+Enter your solution (row col value)🚀, 'h' for a hint🔑, or 'q' to quit: 
+9 7 6
+Congratulations!🏆 You solved the Sudoku puzzle in 60 seconds!🕰️
+Do you want to play again🔄? (Y/N): 
+
+Process finished with exit code 130
